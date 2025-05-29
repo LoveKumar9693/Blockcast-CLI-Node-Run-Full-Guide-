@@ -32,13 +32,13 @@ sudo apt install curl iptables build-essential git wget lz4 jq make gcc nano aut
 ```
 
 
-```
 
 2️⃣ Clone the Repository
 ```
 git clone https://github.com/Blockcast/beacon-docker-compose.git
 cd beacon-docker-compose
 ```
+
 
 3️⃣ Start Node
 ```
