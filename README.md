@@ -17,6 +17,10 @@ Access Platform [HERE](https://app.blockcast.network?referral-code=IIr2Gj)
  * Connect ur X (Twitter) and Discord
  * Do Simple quest in profile dashboard
 
+   # 🛑🛑 DOWNLOD DOCKER FIRST 🛑🛑
+
+  🛑🛑  LINK -  https://www.docker.com/products/docker-desktop/
+
 ---
 
 1️⃣ Dependencies for WINDOWS & LINUX & VPS
