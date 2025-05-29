@@ -110,7 +110,6 @@ sudo kill -9 1234
 sudo fuser -k 8080/tcp
 ```
 
-Reference Video How to Free 8080 or any port - https://youtu.be/4iP4GvLfCrU?t=229
 
 ## Delete Blockcast node
 ```
