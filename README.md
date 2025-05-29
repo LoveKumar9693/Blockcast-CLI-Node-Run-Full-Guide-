@@ -31,17 +31,7 @@ sudo apt-get update && sudo apt-get upgrade -y
 sudo apt install curl iptables build-essential git wget lz4 jq make gcc nano automake autoconf tmux htop nvme-cli libgbm1 pkg-config libssl-dev libleveldb-dev tar clang bsdmainutils ncdu unzip libleveldb-dev  -y
 ```
 
-For VPS Only
-```
-apt install screen -y
-```
-```
-screen -S blockcast
-```
-- PRESS CTRL+A+D (to run ur node continuously)
-- To check ur Node Again
-```
-screen -r blockcast
+
 ```
 
 2️⃣ Clone the Repository
