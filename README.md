@@ -1,5 +1,9 @@
 # Blockcast-CLI-Node-Run-Full-Guide
+# 🛑🛑 HARDWARE REQ..... 🛑🛑
 
+ # 2 CORE CPU
+ # 4 GB RAM
+ # 50MBPS INTERNET SPEED 
 
 # Blockcast CLI Node Run Full Guide (PC and VPS)
 
